@@ -29,6 +29,15 @@ You can also just clone this repository directly if you do not want to track you
 git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
 ```
 
+#### Windows Command
+> If you are using windows. **Instead of the above two commands, use the following commands**:
+> ```powershell
+>  # Clone AstroNvim
+>  git clone https://github.com/AstroNvim/AstroNvim $env:LOCALAPPDATA\nvim
+>  # Clone my config
+>  git clone https://github.com/aquawius/astronvim_config.git $env:LOCALAPPDATA\nvim\lua\user
+> ```
+
 #### Start Neovim
 
 ```shell
