@@ -19,7 +19,7 @@ return {
     event = "User AstroFile",
     cmd = { "TodoQuickFix", "TodoLocList" },
     keys = {
-      { "<leader>T", "<cmd>TodoTelescope<cr>", desc = "Todo Telescope" },
+      { "<leader>fT", "<cmd>TodoTelescope<cr>", desc = "Todo Telescope" },
     },
   },
 }
