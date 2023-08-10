@@ -28,5 +28,7 @@ return {
   { import = "astrocommunity.pack.yaml" },
 
   { import = "astrocommunity.motion.nvim-surround" },
-  -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/motion/nvim-surround
+  { import = "astrocommunity.motion.mini-move" },
+  { import = "astrocommunity.motion.mini-ai" },
+  --- to add alt + jk to move lines
 }
